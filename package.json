@@ -36,13 +36,13 @@
     "commander": "^2.20.0",
     "fs-extra": "^8.1.0",
     "get-urls": "^9.1.0",
-    "got": "^9.6.0",
+    "got": "^12.5.3",
     "image-downloader": "^3.5.0",
     "is-url": "^1.2.4",
     "jsdom": "^15.1.1",
     "log-update": "^3.3.0",
     "ora": "^3.4.0",
-    "update-notifier": "^3.0.1"
+    "update-notifier": "^6.0.2"
   },
   "engines": {
     "node": "10.15.1",
